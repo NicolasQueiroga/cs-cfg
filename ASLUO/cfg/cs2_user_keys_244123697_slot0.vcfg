@@ -1,0 +1,13 @@
+"config"
+{
+	"bindings"
+	{
+		"SPACE"		"<unbound>"
+		"MWHEELUP"		"+jump"
+		"e"		"+lookatweapon"
+		"f"		"+use"
+		"MOUSE1"		"+attack"
+		"0"		"<unbound>"
+		"t"		"slot10"
+	}
+}

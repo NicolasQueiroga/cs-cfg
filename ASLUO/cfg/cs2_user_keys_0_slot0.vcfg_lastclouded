@@ -1,0 +1,27 @@
+"config"
+{
+	"bindings"
+	{
+		"SPACE"		"<unbound>"
+		"MWHEELUP"		"+jump"
+		"e"		"+lookatweapon"
+		"f"		"+use"
+		"MOUSE1"		"+attack"
+		"0"		"<unbound>"
+		"t"		"slot10"
+		"6"		"slot8"
+		"v"		"slot6"
+		"7"		"slot9"
+		"c"		"slot7"
+		"5"		"slot5"
+		"8"		"<unbound>"
+		"9"		"<unbound>"
+		"MWHEELDOWN"		"<unbound>"
+		"]"		"invnext"
+		"n"		"+boing; +ding; +dong"
+		"CAPSLOCK"		"+voicerecord"
+		"MOUSE4"		"<unbound>"
+		"p"		"radio2"
+		"ALT"		"sv_cheats 1; noclip"
+	}
+}
